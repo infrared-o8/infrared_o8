@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dafux-creator
+- 👋 Hi, I’m @infrared-o8
 - 👀 I’m interested in game dev and applications for android.
 - ✨ currently, i have basic to intermediate knowledge in C#, python and lua.
 - 🌱 I’m currently learning python and java.
